@@ -1,0 +1,12 @@
+[
+    {
+        "id": "paris",
+        "name": "Paris",
+        "imageURL": "img/paris.jpg"
+    },
+    {
+        "id": "nantes",
+        "name": "Nantes",
+        "imageURL": "img/nantes.jpg"
+    }
+]
